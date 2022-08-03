@@ -1,5 +1,3 @@
-# miercoles
-
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
@@ -497,8 +495,7 @@ http://magmas5.com:8000/live/malotv/gratis/132269.m3u8
 
 #EXTINF:-1 tvg-chno="75",Space 
 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=pJ98W7obkQ1WQ1KvexFPeQ&expires=1659495788&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D39_%23
-
+https://stationtv.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTM3U
 
@@ -517,13 +514,11 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=ceuPeQSuQFZu
 
 #EXTINF:-1 tvg-chno="78",Axn
 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=l1CLv4fneiDw1cLh9JO30g&expires=1659497051&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D78_%23
+https://stationtv.cdn.rcs.net.ar/mnp/axn/output.mpd
 
-#EXTM3U
+#EXTINF:-1 tvg-chno="79",Comedy Central
 
-#EXTINF:-1 tvg-chno="79",Amc
-
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=q6HNvpHe0E1mBlzujVJ7yw&expires=1659497348&ip=190.237.15.226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A103.0)%20Gecko%2F20100101%20Firefox%2F103.0&Referer=https%3A%2F%2Flive.telelatinohd.com%2Fchannellive.php%3Fid%3D82_%23
+https://stationtv.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 #EXTM3U
 
@@ -621,7 +616,7 @@ https://stationtv.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 
 #EXTINF:-1 tvg-chno="94",Nick Jr. hd
 
-https://ubnet.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+https://stationtv.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 
 #EXTM3U
 
@@ -668,8 +663,39 @@ https://stationtv.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="102",Barza TV. hd
+#EXTINF:-1 tvg-chno="102",TnT Hd
 
-https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/master.m3u8?hdnea=st=1659499311~exp=1659499911~acl=/hls/live/2040130/0_fcq6zq7g/master.m3u8*~hmac=2d55fb6b72edbc1fb80d28391ac4ebe54698e91f7b2a67e1ea93ec55b870caef
+https://stationtv.cdn.rcs.net.ar/mnp/tnt/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="103",TnT Series
+
+https://stationtv.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="104",Animal Planet
+
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="105",Discovery Id
+
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="106",HGTV
+
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
+
+
 
 
